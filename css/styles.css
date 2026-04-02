@@ -189,12 +189,8 @@ ul {
   padding: 0.5rem 2rem;
 }
 
-nav .logo img {
-    height: 100px;
-    width: 170px;
-    padding: 0px 0px;
-    margin: 0px 0px;
-    background-color: none;
+.nav-logo svg {
+  display: block;
 }
 
 .nav-links {
